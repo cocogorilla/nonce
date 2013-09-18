@@ -1,6 +1,8 @@
 nonce
 =====
 
+I got inspired by https://gist.github.com/andrewbartel/6587245 to turn it into a full object oriented implementation.
+
 simple php based nonce generation classes (composable, abstracted repository)
 
 The actual class code is defined between the comment blocks "code under test".  Everything else is extraneous.
